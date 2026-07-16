@@ -1,8 +1,4 @@
-## HY MY NAME IS WALISON
-<div>
-  
-  <p style="text-align: center;">I'M ARE MBAPPÉ FÃ
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Times+Roman&weight=600&size=29&pause=1000&color=2700FF&center=true&vCenter=true&width=435&height=55&lines=HY+MY+NAME+IS+WALISON.;I+LOVE+FOTBALL+AND+INFORMATION+TECHNOLOGY" alt="Typing SVG" /></a>
 </div>
 
 <div>
