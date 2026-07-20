@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Animação Typing SVG Centralizada -->
   <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2600F7&background=000000&center=true&random=true&width=435&lines=I'M+WALISON;MBAPP%C3%89+FAN;WELCOME+TO+MY+GITHUB" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2600F7&background=000000&center=true&random=true&width=435&lines=I'M+WALISON;MBAPP%C3%89+FAN;WELCOME+TO+MY+GITHUB" alt="Typing SVG" /></a>
   </div>
   <p>
 
