@@ -20,7 +20,7 @@
 </p>
 
 <ul>
-  <li><strong>Nome:</strong> Walison</li> <li><strong>Curso:</strong> Técnico em Informática</li> <li><strong>Idade:</strong> 15 anos</li> <li><strong>Ano:</strong> 2026</li>
+  <li><strong>Nome:</strong> Walison</li> <li><strong>Curso:</strong> Técnico em Informática</li> <li><strong>Idade:</strong> 16 anos</li> <li><strong>Ano:</strong> 2026</li>
 </ul>
 
 </td>
