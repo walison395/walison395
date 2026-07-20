@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2600F7&background=000000&center=true&random=true&width=435&lines=I'M+WALISON;MBAPP%C3%89+FAN;WELCOME+TO+MY+GITHUB" alt="Typing SVG" />
@@ -9,9 +11,11 @@
 </div>
 
 <br />
-
-<h3>🧠 Curiosidades sobre mim</h3>
-
+<table align="center">
+  <tr>
+    <td align="left" width="500">
+      <h2>🧠 Curiosidades sobre mim</h2>
+ 
 <p>
   I'm From Brazil Guys 
   <img width="20" height="20" alt="Brazil Flag" src="https://github.com/user-attachments/assets/d868336a-d495-4029-b839-aa21b5c8b8bd" /> 
@@ -25,7 +29,10 @@
   <li><strong>Ano:</strong> 2026</li>
 </ul>
 
- 
+</td>
+  </tr>
+</table>
+
 <!--
 **walison395/walison395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
